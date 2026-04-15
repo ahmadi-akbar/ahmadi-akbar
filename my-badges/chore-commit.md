@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/claude-code/commit/e1d60af3eab5739c8caed80ca09ed144d653f2e8">e1d60af</a>: chore(claude): set default mode to plan
+- <a href="https://github.com/ahmadi-akbar/react-iran-map/commit/2854c1316f55f2d8c938414ff375a1a66187e78e">2854c13</a>: chore: move devDependencies
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

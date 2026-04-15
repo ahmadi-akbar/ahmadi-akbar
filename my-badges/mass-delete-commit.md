@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/awesome-web/commit/1c86894c614ec437cb574d8f148aaf77d42ed96b">1c86894</a>
+- <a href="https://github.com/ahmadi-akbar/react-native-calendars-persian/commit/e6422e5695330246044ed1faee846ae08aacc270">e6422e5</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
