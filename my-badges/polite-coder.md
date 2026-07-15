@@ -4,7 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/facebook/react-native/issues/25643">#25643</a>: tranparent borderColor broken when using borderRadius
+- <a href="https://github.com/react/react-native/issues/25643">#25643</a>: tranparent borderColor broken when using borderRadius
 - <a href="https://github.com/pndurette/gTTS/issues/202">#202</a>: Persian ('fa', 'fa-IR') lang support
 
 

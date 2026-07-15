@@ -66,7 +66,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/facebook/react-native/issues/25643\">#25643</a>: tranparent borderColor broken when using borderRadius\n- <a href=\"https://github.com/pndurette/gTTS/issues/202\">#202</a>: Persian ('fa', 'fa-IR') lang support",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/react/react-native/issues/25643\">#25643</a>: tranparent borderColor broken when using borderRadius\n- <a href=\"https://github.com/pndurette/gTTS/issues/202\">#202</a>: Persian ('fa', 'fa-IR') lang support",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
