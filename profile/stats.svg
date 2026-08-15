@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Sabertaz's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 176, Total Commits  (last year) : 3145, Total PRs: 937, Total Issues: 284, Contributed to (last year): 4</desc>
+        <title id="titleId">Sabertaz&#39;s GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 178, Total Commits  (last year) : 3143, Total PRs: 937, Total Issues: 284, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 20.87652845128634;
+        stroke-dashoffset: 20.68841083297081;
       }
     }
   
@@ -136,7 +136,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Sabertaz's GitHub Stats</text>
+      >Sabertaz&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -172,7 +172,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >176</text>
+      >178</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -232,7 +232,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >3</text>
     </g>
   </g>
     </svg>
